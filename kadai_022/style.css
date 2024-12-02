@@ -28,7 +28,7 @@ main {
 }
 h2 {
   font-size: 25px;
-  border-bottom: 3px dashed rgb(236, 122, 122);
+  border-bottom: 3px dotted rgb(236, 122, 122);
 }
 h2::before {
   content: "●";
@@ -49,7 +49,7 @@ footer {
 a:link {
   color: rgb(255, 255, 255);
 }
-a:visitied {
+a:visited {
   color: rgb(193, 234, 251);
 }
 a:hover {
